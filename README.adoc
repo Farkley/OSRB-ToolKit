@@ -1,3 +1,5 @@
-= OSRB-ToolKit
-== Contains
+OSRB-ToolKit
+===========
+Colin McNamara  colin.mcnamara@farkley.com
+
 Tools for running an Open Source Review Board in your organization
